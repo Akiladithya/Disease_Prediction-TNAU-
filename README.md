@@ -81,5 +81,6 @@ Disease-Prediction/
 - ✅ Implement image recognition for disease detection
 
 ---
+Work By: Kaviselvan,Harish Vardhan D,Akiladithya R, Farhan Abdul Hakkim
 
 ⭐ Feel free to contribute or report issues!  
